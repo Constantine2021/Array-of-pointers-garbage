@@ -173,8 +173,8 @@ int main() {
 	}
 
 
-
-	cout << "======================GIt setup on laptop==============="<< endl;
+	cout << endl;
+	cout << "=========END========="<< endl;
 	system("pause");
 	return 0;
 }
